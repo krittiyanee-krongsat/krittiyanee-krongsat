@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, My name is Krittiyanee Krongsat</h1>
 <h3 align="center">Frontend developer passionate about accessibility and secure web experiences</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krittiyanee-krongsat&label=Profile%20views&color=0e75b6&style=flat" alt="krittiyanee-krongsat" /> </p>
 - 📫 Reach me **krittiyanee.kron@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
