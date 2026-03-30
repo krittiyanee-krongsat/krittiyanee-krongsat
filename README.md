@@ -16,4 +16,4 @@
 </p>
 
 <h3 align="left">My Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krittiyanee-krongsat&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&border_color=000000" alt="krittiyanee-krongsat" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=krittiyanee-krongsat&" alt="krittiyanee-krongsat" /></p>
