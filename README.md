@@ -16,4 +16,4 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krittiyanee-krongsat&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="krittiyanee-krongsat" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krittiyanee-krongsat&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="krittiyanee-krongsat" /></p>
